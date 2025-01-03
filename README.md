@@ -1,13 +1,13 @@
-### Olá! Eu sou o Daniel Lucio💻
+### Hello! I'm Daniel Lucio💻
 
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daniellucio._/?next=%2F)
 
 
 ![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=danielluccio&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielluccio)](https://github.com/anuraghazra/github-readme-stats)
 
-### Tecnologias que eu uso no meu dia !
+
+### Technologies I use in my day !
 
 
 <div style="display: inline_block"></br>
@@ -19,3 +19,4 @@
     <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
     <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div></br>
+
