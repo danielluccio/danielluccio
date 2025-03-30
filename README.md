@@ -3,7 +3,7 @@
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daniellucio._/?next=%2F)
 
 
-![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=danielluccio&show_icons=true&theme=dark)
+![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=danielluccio&show_icons=true&theme=white)
 
 
 
