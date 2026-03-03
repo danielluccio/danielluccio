@@ -20,6 +20,10 @@ Currently learning **DevOps practices** and diving deeper into **cloud infrastru
   <a href="https://instagram.com/daniellucio._">
     <img src="https://img.shields.io/badge/Instagram-@DANIELLUCIO._-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+
+  <a href="https://www.linkedin.com/in/daniel-lucio-de-castro-b91b7b291/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-Daniel%20Lucio%20de%20Castro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 </p>
 
 ---
